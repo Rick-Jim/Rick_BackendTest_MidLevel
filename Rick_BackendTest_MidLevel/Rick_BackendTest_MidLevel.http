@@ -1,0 +1,6 @@
+@Rick_BackendTest_MidLevel_HostAddress = http://localhost:5111
+
+GET {{Rick_BackendTest_MidLevel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
